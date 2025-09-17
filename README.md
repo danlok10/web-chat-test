@@ -1,2 +1,2 @@
 # web-chat-test
-Some live web chat code in Javascript with HTML, CSS
+Some live web chat code with some Javascript
